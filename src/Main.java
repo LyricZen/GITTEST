@@ -4,5 +4,6 @@ public class Main {
         System.out.println("고훈");
         System.out.println("민경현1");
         System.out.println("이신지");
+        System.out.println("dev->mas");
     }
 }
